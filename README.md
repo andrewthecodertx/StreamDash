@@ -150,3 +150,11 @@ build plan plus a minimal DB schema.
 [^3]: <https://docs.paypal.ai/growth/reports/api>
 
 [^4]: <https://developer.paypal.com/docs/api/transaction-search/v1/>
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
